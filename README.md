@@ -168,3 +168,9 @@ passengers AND job in Tech → Acceptance rate: 95% (acceptance rate of drivers 
 
 The analysis revealed that the insights gained could provide valuable indications to maximize the
 return of the coupons sent.
+
+## Reference
+This analysis has been developed by the Jupyter worksheet here reported 
+[LINK](https://github.com/emmetizeta/Will-the-Customer-Accept-the-Coupon-/blob/main/prompt.ipynb)
+
+
