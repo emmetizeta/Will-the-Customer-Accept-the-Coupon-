@@ -15,11 +15,8 @@ The feature "toCoupon_GEQ15min" only presented value 1, meaning that all the cou
 ## General observations
 Different types of coupon were available, for: bars, coffee houses, take-aways and restaurants (less expensive under $20, or more expensive over $20). The general mean acceptance rate is **57%**. While the coupons are mainly for bars, the most accepted ones are for take-aways.
 
-
-![image](https://github.com/emmetizeta/Will-the-Customer-Accept-the-Coupon-/assets/101027884/d0f6f501-7841-4e9a-a1fa-e64ee2c99150)
-
-
 <p align="center">
+<img src=https://github.com/emmetizeta/Will-the-Customer-Accept-the-Coupon-/assets/101027884/d0f6f501-7841-4e9a-a1fa-e64ee2c99150)>
 <img src=https://github.com/emmetizeta/Will-the-Customer-Accept-the-Coupon-/assets/101027884/c713a43b-f6d5-41ed-81c0-fde8dadd0aa2)>
 </p>
 
